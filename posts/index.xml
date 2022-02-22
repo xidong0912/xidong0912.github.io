@@ -8,7 +8,16 @@
     <language>zh</language>
     <copyright>&amp;copy; 2021 X. Wang
 </copyright>
-    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>图书馆约座源代码</title>
+      <link>/posts/20220222/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20220222/</guid>
+      <description>&lt;p&gt;本代码版权归个人所有，严禁各种形式的商业化使用以及非本人授权的转发，仅供个人学习交流使用。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>你好，我是西东！初次见面请多关照！！</title>
       <link>/posts/20211220/</link>

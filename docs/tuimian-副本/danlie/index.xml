@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3. 创新＆综合加分 on 西东</title>
+    <link>/docs/tuimian-%E5%89%AF%E6%9C%AC/danlie/</link>
+    <description>Recent content in 3. 创新＆综合加分 on 西东</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 X. Wang
+</copyright>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/docs/tuimian-%E5%89%AF%E6%9C%AC/danlie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3.1 创新</title>
+      <link>/docs/tuimian-%E5%89%AF%E6%9C%AC/danlie/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/tuimian-%E5%89%AF%E6%9C%AC/danlie/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3.2 综合素质</title>
+      <link>/docs/tuimian-%E5%89%AF%E6%9C%AC/danlie/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/tuimian-%E5%89%AF%E6%9C%AC/danlie/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

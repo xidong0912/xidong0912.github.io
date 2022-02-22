@@ -8,7 +8,16 @@
     <language>zh</language>
     <copyright>&amp;copy; 2021 X. Wang
 </copyright>
-    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python爬虫</title>
+      <link>/categories/python%E7%88%AC%E8%99%AB/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/python%E7%88%AC%E8%99%AB/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>syntax</title>
       <link>/categories/syntax/</link>

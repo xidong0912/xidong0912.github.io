@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2. 笔面试回忆 on 西东</title>
-    <link>/docs/tuimian/bmshy/</link>
+    <link>/docs/tuimian-%E5%89%AF%E6%9C%AC/bmshy/</link>
     <description>Recent content in 2. 笔面试回忆 on 西东</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2021 X. Wang
 </copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/docs/tuimian/bmshy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/docs/tuimian-%E5%89%AF%E6%9C%AC/bmshy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2.1 夏令营</title>
-      <link>/docs/tuimian/bmshy/chapter-1/</link>
+      <link>/docs/tuimian-%E5%89%AF%E6%9C%AC/bmshy/chapter-1/</link>
       <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tuimian/bmshy/chapter-1/</guid>
+      <guid>/docs/tuimian-%E5%89%AF%E6%9C%AC/bmshy/chapter-1/</guid>
       <description>&lt;p&gt;投了很多，但是确实因为自己在夏令营阶段的排名太差，根本卷不过其他人，所以夏令营并没有拿到几个入营。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2.2 九推</title>
-      <link>/docs/tuimian/bmshy/chapter-2/</link>
+      <link>/docs/tuimian-%E5%89%AF%E6%9C%AC/bmshy/chapter-2/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tuimian/bmshy/chapter-2/</guid>
+      <guid>/docs/tuimian-%E5%89%AF%E6%9C%AC/bmshy/chapter-2/</guid>
       <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
     </item>
     
