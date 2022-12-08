@@ -4,6 +4,6 @@
 
 ---
 
-> 作者: [王熙栋](xidong.wang)  
+> 作者: [王熙栋](posts)  
 > URL: http://xidong.wang/first_post/  
 
