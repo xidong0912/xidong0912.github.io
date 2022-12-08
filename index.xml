@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>西东</title>
+    <link>http://xidong.wang/</link>
+    <description>这是我的全新 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>sdwxd0539@163.com (Xidong)</managingEditor>
+      <webMaster>sdwxd0539@163.com (Xidong)</webMaster><lastBuildDate>Thu, 08 Dec 2022 15:11:44 &#43;0800</lastBuildDate>
+      <atom:link href="http://xidong.wang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>Python&#43;Selenium实现企业全层级股权穿透</title>
+  <link>http://xidong.wang/first_post/</link>
+  <pubDate>Thu, 08 Dec 2022 15:11:44 &#43;0800</pubDate>
+  <author>王熙栋</author>
+  <guid>http://xidong.wang/first_post/</guid>
+  <description><![CDATA[1 监管规则及要求背景 1.1 股东信息核查的一般要求 2021年2月以来，监管加强了对各板块拟IPO企业股东信息核查及证监系统离职人员入股核查（以下简]]></description>
+</item>
+</channel>
+</rss>
